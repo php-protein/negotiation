@@ -5,11 +5,11 @@
  *
  * A module for handling Content Negotiation.
  *
- * @package Protein
+ * @package Proteins
  * @author  "Stefano Azzolini"  <lastguest@gmail.com>
  */
 
-namespace Protein;
+namespace Proteins;
 
 class Negotiation {
     protected $list;

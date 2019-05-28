@@ -9,13 +9,13 @@
 ---
 
 ```
-composer require protein/negotiation
+composer require proteins/negotiation
 ```
 
 Require the class via :
 
 ```php
-use Protein\Negotiation;
+use Proteins\Negotiation;
 ```
 
 
